@@ -52,25 +52,4 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoznenkoMargo&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=VoznenkoMargo&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoznenkoMargo&hide_border=true&layout=compact" align="center" /></div> 
