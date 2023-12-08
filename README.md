@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi there, I'm Marharyta, junior front-end  developer  💻 </div>  
+### <div align="center">Hi there, I'm Marharyta, front-end lover 💻 </div>  
 
 
 
